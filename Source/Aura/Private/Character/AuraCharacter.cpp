@@ -1,7 +1,8 @@
-// Copyright WalkerGP
+// Copyright Druid Mechanics
 
 
 #include "Character/AuraCharacter.h"
+
 #include "GameFramework/CharacterMovementComponent.h"
 
 AAuraCharacter::AAuraCharacter()
