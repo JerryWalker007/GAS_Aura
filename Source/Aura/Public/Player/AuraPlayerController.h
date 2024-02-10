@@ -1,4 +1,4 @@
-// Copyright Druid Mechanics
+// Copyright Walker G&G
 
 #pragma once
 
